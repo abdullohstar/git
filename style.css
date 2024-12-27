@@ -1,0 +1,184 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: #12100CB2;
+}
+nav button{
+     border-radius: 12px;
+     background-color: #12100C;
+     color: white;
+     width: 80px;
+     height: 32px;
+     outline: none;
+     border: none;
+}
+ 
+ nav img{
+    margin: 20px 0 0 32px;
+ }
+ nav{
+    display: flex;
+ }
+ ul{
+    display: flex;
+    gap: 48px;
+    line-height: 24px;
+    font-size: 16px;
+    list-style: none;
+    margin-top: 28px;
+    margin-left: 284px;
+ }
+ nav button{
+    margin-left: 300px;
+    margin-top: 24px;
+ }
+.try{
+    display: flex;
+}
+.home-text h1{
+    font-size: 70px;
+
+}
+body{
+    transform: capitalize;
+}
+.home-text{
+    margin-top: 161px;
+}
+.home-text p{
+    font-family: Roboto;
+font-size: 23px;
+font-weight: 400;
+line-height: 31.92px;
+ color: #12100CB2;
+ margin-top: 32px;
+
+}
+.workspace{
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+color: #12100CB2;
+
+}
+.try button{
+    width: 160px;
+height: 46px;
+border-radius: 16px  
+
+;
+font-weight: 700;
+color: #12100C;
+background-color: #FFAE33;
+outline: none;
+border: none;
+
+}
+.home{
+    display: flex;
+    padding-left: 65px;
+}
+.rectangle{
+    margin-left: 180px;
+    margin-top: 52px;
+}
+.try{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.try p{
+  margin-bottom: 30px;  
+  margin-left: 30px;
+}
+.icons{
+    gap: 28px;
+    display: flex;
+}
+.select-text{
+    margin-top: 160px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 63px;
+}
+.select-text del{
+    color: #999795;
+}
+.dev{
+    display: flex;
+}
+.text{
+    margin-top: 216px;
+    margin-left: 65px;
+}
+.compiling{
+    margin-top: 160px;
+    margin-left: 66px;
+    margin-right: 66px;
+}
+.dev h4{
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px;
+     
+    
+}
+.dev p{
+    font-family: Roboto;
+font-size: 24px;
+font-weight: 400;
+line-height: 31.92px;
+ 
+}
+.text button{
+width: 162px;
+height: 32px;
+border-radius: 10.5px;
+border: none;
+outline: none;
+font-family: Roboto;
+font-size: 14px;
+font-weight: 700;
+line-height: 16px;
+ 
+
+}
+.rebuild{
+    background-color: #FFAE33;
+}
+.doc{
+    background-color: #FFB0AE;
+    margin-top: 155px;
+}
+.remote{
+    text-align: center;
+    margin-top: 177px;
+}
+.remote h3{
+    font-family: Roboto;
+font-size: 35px;
+font-weight: 700;
+line-height: 71.82px;
+color: #12100C;
+ 
+
+}
+.remote p{
+    color: #12100CB2;
+    font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 31.92px;   
+
+}
+.chrome{
+    margin-top: 48px;
+    gap: 16px;
+    ;
+}
